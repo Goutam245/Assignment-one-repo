@@ -1,0 +1,30 @@
+nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5px;
+       margin: 100px;
+    }
+    .new{
+        align-items: center;
+        margin-left: 460px;
+        justify-content: space-between;
+        padding: 50px;
+        margin-top: -580px;
+        padding-bottom: 400px;
+
+    }
+    .New-hero{
+        display: flex;
+        justify-content:100px;
+        gap: 20px;
+        align-items: center;
+        margin-left: 430px;
+     margin-top: -400px;
+    }
+    nav{ 
+    margin-right: 100px;
+    text-align:center;
+    margin-left: 100px;   
+    margin-top: -20px;
+    }
