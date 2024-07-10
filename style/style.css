@@ -42,3 +42,29 @@ nav{
 .roman-new{
     text-align:left;
 }
+.new-rock{
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+.rock-new{
+    margin-left: -870px;
+    justify-content: center;
+    align-items: center;
+margin-right: 100px;
+}
+.top-new{
+    margin-top: -200px;
+    margin-left: 300px;
+}
+.My-new{
+    align-items: center;
+    margin-left: 230px;
+    margin-right: 290px;
+}
+.new-don{
+    align-items: center;
+    margin-left: 300px ;
+    margin-top: 45px;
+}
