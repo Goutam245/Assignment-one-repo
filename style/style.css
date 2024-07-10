@@ -2,8 +2,8 @@ nav{
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 5px;
-       margin: 100px;
+        padding: 10px;
+       margin: 0px;
     }
     .new{
         align-items: center;
@@ -16,15 +16,18 @@ nav{
     }
     .New-hero{
         display: flex;
-        justify-content:100px;
-        gap: 20px;
         align-items: center;
         margin-left: 430px;
      margin-top: -400px;
     }
     nav{ 
-    margin-right: 100px;
-    text-align:center;
-    margin-left: 100px;   
-    margin-top: -20px;
+        text-align: center;
+    margin-left: 130px;   
+    margin-top: -30px;
+    }
+    .hero-new{
+        text-align: center;
+        justify-content: center;
+        margin-left: 50px;
+padding: 10px;
     }
